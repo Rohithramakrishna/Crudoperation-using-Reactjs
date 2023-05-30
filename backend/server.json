@@ -1,0 +1,11 @@
+{
+  "employees": [
+    {
+      "emp_name": "rohith",
+      "emp_salary": "500000",
+      "emp_designation": "node_dev",
+      "gender": "male",
+      "id": 1
+    }
+  ]
+}
